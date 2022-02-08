@@ -1,314 +1,202 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS HABER FHD" tvg-logo="http://lycamore.nl/picon/turkey/beinsporthaber.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS HABER FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/756
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 FHD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport1.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/755
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 FHD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport2.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/754
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 FHD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport3.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/753
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 FHD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport4.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/752
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET BEIN SPORTS FHD HEVC ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] BEIN SPORTS",???? [TR] PAKET BEIN SPORTS FHD HEVC ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/751
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 FHD HEVC" tvg-logo="http://lycamore.nl/picon/turkey/beinsport1.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1 FHD HEVC
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/750
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 FHD HEVC" tvg-logo="http://lycamore.nl/picon/turkey/beinsport2.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2 FHD HEVC
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/749
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 FHD HEVC" tvg-logo="http://lycamore.nl/picon/turkey/beinsport3.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3 FHD HEVC
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/748
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 FHD HEVC" tvg-logo="http://lycamore.nl/picon/turkey/beinsport4.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4 FHD HEVC
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/747
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET BEIN SPORTS HD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] BEIN SPORTS",???? [TR] PAKET BEIN SPORTS HD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/746
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS HABER HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsporthaber.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS HABER HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/745
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport1.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/744
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport2.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/743
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport3.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/742
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsport4.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/741
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS MAX 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsportmax.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS MAX 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/740
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS MAX 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/beinsportmax.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS MAX 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/739
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET BEIN SPORTS ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] BEIN SPORTS",???? [TR] PAKET BEIN SPORTS ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/738
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS HABER" tvg-logo="http://lycamore.nl/picon/turkey/beinsporthaber.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS HABER
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/737
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1" tvg-logo="http://lycamore.nl/picon/turkey/beinsport1.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/736
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2" tvg-logo="http://lycamore.nl/picon/turkey/beinsport2.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/735
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3" tvg-logo="http://lycamore.nl/picon/turkey/beinsport3.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/734
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4" tvg-logo="http://lycamore.nl/picon/turkey/beinsport4.png" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/733
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 FHD (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1 FHD (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15555
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 4K (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 1 4K (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15554
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 FHD (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2 FHD (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15552
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 4K (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 2 4K (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15551
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 FHD (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3 FHD (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15549
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 4K (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 3 4K (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15548
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 FHD (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4 FHD (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15546
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 4K (FEED)" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN SPORTS 4 4K (FEED)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15545
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET BEIN CONNECT HD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] BEIN SPORTS",???? [TR] PAKET BEIN CONNECT HD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18627
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 1 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15568
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 2 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15567
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 3 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 3 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15566
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 4 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 4 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15565
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 5 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 5 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15564
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN CONNECT 6 HD" tvg-logo="" group-title="[TR] BEIN SPORTS",[TR] BEIN CONNECT 6 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15563
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET EXXEN SPORTS FHD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] EXXEN SPORTS",???? [TR] PAKET EXXEN SPORTS FHD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18625
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 1 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15340
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1 HD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15521
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 1
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15522
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 2 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15341
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 3 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 3 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15342
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 4 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 4 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15515
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 5 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 5 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15516
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 6 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15517
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 7 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 7 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15518
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 8 FHD" tvg-logo="" group-title="[TR] EXXEN SPORTS",[TR] EXXEN SPORTS 8 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15519
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET S SPORTS FHD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] S SPORTS",???? [TR] PAKET S SPORTS FHD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18628
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 1 FHD" tvg-logo="http://lycamore.nl/picon/turkey/S SPOR.png" group-title="[TR] S SPORTS",[TR] S SPORT 1 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/712
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 2 FHD" tvg-logo="http://lycamore.nl/picon/turkey/S SPORT2.png" group-title="[TR] S SPORTS",[TR] S SPORT 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/711
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART FHD" tvg-logo="http://lycamore.nl/picon/turkey/SMARSPOR.png" group-title="[TR] S SPORTS",[TR] SPOR SMART FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/713
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART 2 FHD" tvg-logo="http://lycamore.nl/picon/turkey/SMARSPOR.png" group-title="[TR] S SPORTS",[TR] SPOR SMART 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18631
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 1 FHD" tvg-logo="http://lycamore.nl/picon/Duits/EUROSPORT1.png" group-title="[TR] S SPORTS",[TR] EUROSPORT 1 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/708
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 2 FHD" tvg-logo="http://lycamore.nl/picon/Duits/EUROSPORT2.png" group-title="[TR] S SPORTS",[TR] EUROSPORT 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/707
-#EXTINF:-1 tvg-id="" tvg-name="[TR] NBA TV FHD" tvg-logo="" group-title="[TR] S SPORTS",[TR] NBA TV FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18632
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FAST AND FUNBOX FHD" tvg-logo="" group-title="[TR] S SPORTS",[TR] FAST AND FUNBOX FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18633
-#EXTINF:-1 tvg-id="" tvg-name="[TR] AUTOMOTO FHD" tvg-logo="" group-title="[TR] S SPORTS",[TR] AUTOMOTO FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18634
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIGHTBOX FHD" tvg-logo="" group-title="[TR] S SPORTS",[TR] FIGHTBOX FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18635
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TRACE SPORT STARS FHD" tvg-logo="" group-title="[TR] S SPORTS",[TR] TRACE SPORT STARS FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18636
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET S SPORTS HD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] S SPORTS",???? [TR] PAKET S SPORTS HD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18629
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/S SPOR.png" group-title="[TR] S SPORTS",[TR] S SPORT 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/703
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 1" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT 1
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18637
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 2 HD" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18638
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT 2" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT 2
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18639
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART HD" tvg-logo="http://lycamore.nl/picon/turkey/SMARSPOR.png" group-title="[TR] S SPORTS",[TR] SPOR SMART HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/704
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART 2 HD" tvg-logo="" group-title="[TR] S SPORTS",[TR] SPOR SMART 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18640
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 1 HD" tvg-logo="http://lycamore.nl/picon/Duits/EUROSPORT1.png" group-title="[TR] S SPORTS",[TR] EUROSPORT 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/700
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 2 HD" tvg-logo="http://lycamore.nl/picon/Duits/EUROSPORT2.png" group-title="[TR] S SPORTS",[TR] EUROSPORT 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/699
-#EXTINF:-1 tvg-id="" tvg-name="[TR] NBA TV HD" tvg-logo="http://lycamore.nl/picon/turkey/NBA TV.png" group-title="[TR] S SPORTS",[TR] NBA TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/698
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FAST AND FUNBOX HD" tvg-logo="" group-title="[TR] S SPORTS",[TR] FAST AND FUNBOX HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18641
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EDGE SPORT HD" tvg-logo="" group-title="[TR] S SPORTS",[TR] EDGE SPORT HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18642
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EDGE SPORT" tvg-logo="" group-title="[TR] S SPORTS",[TR] EDGE SPORT
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18643
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET S SPORTS+ FHD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] S SPORTS",???? [TR] PAKET S SPORTS+ FHD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18630
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 1 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 1 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15562
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 2 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 2 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15561
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 3 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 3 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15560
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 4 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 4 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15559
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 5 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 5 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15558
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 6 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 6 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15557
-#EXTINF:-1 tvg-id="" tvg-name="[TR] S SPORT+ 7 FHD (MATCH TIME)" tvg-logo="" group-title="[TR] S SPORTS",[TR] S SPORT+ 7 FHD (MATCH TIME)
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15571
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET SPOR FHD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SPOR",???? [TR] PAKET SPOR FHD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/714
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR FHD" tvg-logo="http://lycamore.nl/picon/turkey/trtspor.png" group-title="[TR] SPOR",[TR] TRT SPOR FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/709
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR YILDIZ FHD" tvg-logo="" group-title="[TR] SPOR",[TR] TRT SPOR YILDIZ FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18644
-#EXTINF:-1 tvg-id="" tvg-name="[TR] A SPOR FHD" tvg-logo="http://lycamore.nl/picon/turkey/a spor.png" group-title="[TR] SPOR",[TR] A SPOR FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/710
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TAY TV FHD" tvg-logo="" group-title="[TR] SPOR",[TR] TAY TV FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18646
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TJK TV FHD" tvg-logo="" group-title="[TR] SPOR",[TR] TJK TV FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18649
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET SPOR HD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SPOR",???? [TR] PAKET SPOR HD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/705
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR HD" tvg-logo="http://lycamore.nl/picon/turkey/trtspor.png" group-title="[TR] SPOR",[TR] TRT SPOR HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/701
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR YILDIZ HD" tvg-logo="" group-title="[TR] SPOR",[TR] TRT SPOR YILDIZ HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18645
-#EXTINF:-1 tvg-id="" tvg-name="[TR] A SPOR HD" tvg-logo="http://lycamore.nl/picon/turkey/a spor.png" group-title="[TR] SPOR",[TR] A SPOR HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/702
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FENERBACHE TV HD" tvg-logo="http://lycamore.nl/picon/turkey/FENERBAHCHETV.png" group-title="[TR] SPOR",[TR] FENERBACHE TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/695
-#EXTINF:-1 tvg-id="" tvg-name="[TR] GALATASARAY TV HD" tvg-logo="http://lycamore.nl/picon/turkey/GALATASARAYTV.png" group-title="[TR] SPOR",[TR] GALATASARAY TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/696
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TAY TV HD" tvg-logo="" group-title="[TR] SPOR",[TR] TAY TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18647
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TJK TV HD" tvg-logo="" group-title="[TR] SPOR",[TR] TJK TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/18648
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SPORTS TV" tvg-logo="http://lycamore.nl/picon/turkey/SPORTS TV.png" group-title="[TR] SPOR",[TR] SPORTS TV
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/694
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET TIVIBU SPOR FHD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SPOR",???? [TR] PAKET TIVIBU SPOR FHD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/723
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 1 FHD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 1 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/722
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 2 FHD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/721
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 3 FHD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 3 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/720
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 4 FHD" tvg-logo="" group-title="[TR] SPOR",[TR] TIVIBU SPOR 4 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15569
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 5 FHD" tvg-logo="" group-title="[TR] SPOR",[TR] TIVIBU SPOR 5 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/73577
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET TIVIBU SPOR HD ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SPOR",???? [TR] PAKET TIVIBU SPOR HD ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/719
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/718
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/717
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 3 HD" tvg-logo="http://lycamore.nl/picon/turkey/TIVIBU SPOR.png" group-title="[TR] SPOR",[TR] TIVIBU SPOR 3 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/716
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 4 HD" tvg-logo="" group-title="[TR] SPOR",[TR] TIVIBU SPOR 4 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/15570
-#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 5 HD" tvg-logo="" group-title="[TR] SPOR",[TR] TIVIBU SPOR 5 HD
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: Bein Sport HD1" tvg-logo="[" group-title="Live: Türkiye",TR: Bein Sport HD1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/4110
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="TR: Bein Sport HD2" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/4111
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="TR: Bein Sport HD3" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/4112
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="TR: Bein Sport HD4" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/4113
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Sport 1" tvg-logo="[""]" group-title="Live: Türkiye",TR: Tivibu Sport 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: Tivibu Sport 2" tvg-logo="" group-title="Live: Türkiye",TR: Tivibu Sport 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2285
+#EXTINF:-1 tvg-ID="smartspor.tr" tvg-name="TR: SMART SPOR HD1" tvg-logo="[" group-title="Live: Türkiye",TR: SMART SPOR HD1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6092
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="[" group-title="Live: Türkiye",TR: S SPORT HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6093
+#EXTINF:-1 tvg-ID="eurosport1.tr" tvg-name="TR: EURO SPORT 1 HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: EURO SPORT 1 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/8047
+#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="TR: EURO SPORT 2 HD" tvg-logo="[" group-title="Live: Türkiye",TR: EURO SPORT 2 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/8048
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN BOX OFFICE 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN BOX OFFICE 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/659
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN BOX OFFICE 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN BOX OFFICE 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/658
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN BOX OFFICE 3 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN BOX OFFICE 3 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/657
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES PREMIER 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES PREMIER 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/656
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES PREMIER 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES PREMIER 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/655
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES ACTION 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES ACTION 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/653
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES ACTION 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES ACTION 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/652
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES STARS HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES STARS HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/650
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES TURK HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES TURK HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/649
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES FAMILY HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINMOVIES.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES FAMILY HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/648
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES COMEDY HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINSERIES.png" group-title="[TR] SINEMA",[TR] BEIN SERIES COMEDY HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/651
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES DRAMA HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINSERIES.png" group-title="[TR] SINEMA",[TR] BEIN SERIES DRAMA HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/646
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES SCI-FI HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINSERIES.png" group-title="[TR] SINEMA",[TR] BEIN SERIES SCI-FI HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/645
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES VICE HD" tvg-logo="http://lycamore.nl/picon/turkey/BEINSERIES.png" group-title="[TR] SINEMA",[TR] BEIN SERIES VICE HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/644
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET MOVIESMART ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SINEMA",???? [TR] PAKET MOVIESMART ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/643
-#EXTINF:-1 tvg-id="" tvg-name="[TR] DIZISMART MAX FHD" tvg-logo="http://lycamore.nl/picon/turkey/DIZIMAX.png" group-title="[TR] SINEMA",[TR] DIZISMART MAX FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/642
-#EXTINF:-1 tvg-id="" tvg-name="[TR] DIZISMART PREMIUM FHD" tvg-logo="http://lycamore.nl/picon/turkey/DIZI SMART PREMIERE.png" group-title="[TR] SINEMA",[TR] DIZISMART PREMIUM FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/641
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART PREMIUM FHD" tvg-logo="http://lycamore.nl/picon/turkey/MOVIESMART.png" group-title="[TR] SINEMA",[TR] MOVIESMART PREMIUM FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/640
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART PREMIUM 2 FHD" tvg-logo="http://lycamore.nl/picon/turkey/MOVIESMART.png" group-title="[TR] SINEMA",[TR] MOVIESMART PREMIUM 2 FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/639
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART CLASSIC FHD" tvg-logo="http://lycamore.nl/picon/turkey/MOVIESMART.png" group-title="[TR] SINEMA",[TR] MOVIESMART CLASSIC FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/637
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART TURK FHD" tvg-logo="http://lycamore.nl/picon/turkey/MOVIESMART.png" group-title="[TR] SINEMA",[TR] MOVIESMART TURK FHD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/636
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET SINEMA TV ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SINEMA",???? [TR] PAKET SINEMA TV ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/635
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/634
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/633
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV 1001 HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV 1001 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/632
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV 1002 HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV 1002 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/631
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AKSION HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV AKSION HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/630
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AKSION 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV AKSION 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/629
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV KOMEDI HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV KOMEDI HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/628
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AILE HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV AILE HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/627
-#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV YERLI HD" tvg-logo="http://lycamore.nl/picon/turkey/SINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV YERLI HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/626
-#EXTINF:-1 tvg-id="" tvg-name="???? [TR] PAKET BOSS MOVIE ????" tvg-logo="http://lycamore.nl/picon/turkey/trvlag.png" group-title="[TR] SINEMA",???? [TR] PAKET BOSS MOVIE ????
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/625
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 1 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 1 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/624
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 2 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 2 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/623
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 3 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 3 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/622
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 4 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 4 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/621
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 5 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 5 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/620
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 6 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 6 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/619
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 7 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 7 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/618
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 8 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 8 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/617
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 9 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 9 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/616
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BOSS MOVIES 10 HD" tvg-logo="http://lycamore.nl/picon/turkey/BOSSMOVIE.png" group-title="[TR] SINEMA",[TR] BOSS MOVIES 10 HD
-http://line.pito-tv.com:80/nOe5zm8G7b/1h8Gqn2Wm3/615
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="dizismartpremium.tr" tvg-name="TR: DIGIMAX 1" tvg-logo="[""]" group-title="Live: Türkiye",TR: DIGIMAX 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3745
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: SALON 3" tvg-logo="" group-title="Live: Türkiye",TR: SALON 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3750
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SALON 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: SALON 2 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3749
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SALON 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: SALON 1 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3748
+#EXTINF:-1 tvg-ID="moviesmartturk.tr" tvg-name="TR: MOVIEMAX TURK HD" tvg-logo="" group-title="Live: Türkiye",TR: MOVIEMAX TURK HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3755
+#EXTINF:-1 tvg-ID="moviesmartfestival.tr" tvg-name="TR: MOVIEMAX FESTIVAL HD" tvg-logo="" group-title="Live: Türkiye",TR: MOVIEMAX FESTIVAL HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3757
+#EXTINF:-1 tvg-ID="filmbox.tr" tvg-name="TR: Film BOX HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Film BOX HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/8061
+#EXTINF:-1 tvg-ID="sinemakomedihd.tr" tvg-name="TR: SiNEMAX COMEDY HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX COMEDY HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11827
+#EXTINF:-1 tvg-ID="sinemakomedi2hd.tr" tvg-name="TR: SiNEMAX DRAMA HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX DRAMA HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11826
+#EXTINF:-1 tvg-ID="sinemaaile2hd.tr" tvg-name="TR: SiNEMAX FAMiLY HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX FAMiLY HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11825
+#EXTINF:-1 tvg-ID="sinemayerli.tr" tvg-name="TR: SiNEMAX NOSTALJiA HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX NOSTALJiA HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11824
+#EXTINF:-1 tvg-ID="sinemayerli2.tr" tvg-name="TR: SiNEMAX TURK HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX TURK HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11823
+#EXTINF:-1 tvg-ID="sinema1002.tr" tvg-name="TR: SINETIVI 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: SINETIVI 2 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/11822
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 1 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42773
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 10 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 10 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42782
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 2 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42774
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 3 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 3 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42775
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 4 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 4 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42776
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 5 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 5 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42777
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 6 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 6 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42778
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 7 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 7 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42779
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 8 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 8 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42780
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 9 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 9 HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42781
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 1" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42786
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 2" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42787
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 3" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42788
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 4" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42789
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 5" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 5
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42790
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 6" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 6
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42791
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 7" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 7
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42792
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 8" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42793
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 9" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 9
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42794
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 10" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 10
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42795
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 11" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 11
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42796
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 12" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 12
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42797
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 13" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 13
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42798
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 14" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 14
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42799
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 15" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 15
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42800
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ANiMASYON" tvg-logo="" group-title="Live: Türkiye",TR: ENO ANiMASYON
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42784
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO TURK 1" tvg-logo="" group-title="Live: Türkiye",TR: ENO TURK 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42785
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO WESTERN" tvg-logo="" group-title="Live: Türkiye",TR: ENO WESTERN
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42801
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42854
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42855
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42856
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42857
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 5" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 5
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42858
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 6" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 6
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42859
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 7" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 7
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42860
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 8" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42861
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 9" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 9
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42862
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 10" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 10
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42863
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 11" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 11
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42864
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 12" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 12
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42865
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 13" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 13
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42866
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 14" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 14
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42867
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 15" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 15
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42868
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 16" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 16
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42869
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 17" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 17
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42870
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 18" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 18
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42871
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 19" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 19
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42872
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 20" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 20
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42873
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 21" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 21
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42874
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 22" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 22
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42875
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 23" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 23
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42876
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 24" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 24
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42877
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 25" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 25
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42878
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 26" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 26
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42879
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 27" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 27
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42880
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 28" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 28
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42881
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 29" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 29
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42882
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON CEM YILMAZ" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON CEM YILMAZ
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42883
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42888
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42889
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42890
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42891
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 5" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 5
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42892
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42884
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42885
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42886
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42887
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL ACTION HD" tvg-logo="" group-title="Live: Türkiye",TR: SL ACTION HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/42926
+
+
+
+
+
 
 
 
@@ -322,11 +210,11 @@ http://live.redtraffic.xyz/bigass.m3u8
 http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Tits (720p)
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Sar���n (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Sarışın (720p)
 http://live.redtraffic.xyz/blonde.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetSakso.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Oral (720p)
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Esmer Kad�n (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Esmer Kadın (720p)
 http://live.redtraffic.xyz/brunette.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Derleme (720p)
 http://live.redtraffic.xyz/compilation.m3u8
@@ -346,7 +234,7 @@ http://live.redtraffic.xyz/interracial.m3u8
 http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Lezbiyen (720p)
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Canl� Kameralar (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Canlı Kameralar (720p)
 http://live.redtraffic.xyz/livecams.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net MILF (720p)
 http://live.redtraffic.xyz/milf.m3u8
@@ -356,9 +244,9 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Rough (720p)
 http://live.redtraffic.xyz/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Rus�a (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Rusça (720p)
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Gen� (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Genç (720p)
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net ��l� (720p)
-http://live.redtraffic.xyz/��l�.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Üçlü (720p)
+http://live.redtraffic.xyz/üçlü.m3u8
