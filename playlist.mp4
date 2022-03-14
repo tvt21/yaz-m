@@ -1,0 +1,6 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://vjackson.info/live/logo?channel=23629"group-title="SPOR",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+http://45.141.158.12:8000/a/willene/live/23629.ts?n=1&b=5&vavoo_auth='eyJkYXRhIjoie1widGltZVwiOjU2MDEyMTk1OTQ2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyMDE5NDY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWT1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU1TeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs9In0=='|User-Agent=VAVOO/1.51''
